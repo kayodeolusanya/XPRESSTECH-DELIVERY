@@ -1,0 +1,11 @@
+INSIGHTS
+1. Total customers in the company was 388 customers comprising of 166 Female(42.8%) and 222 Male(57.2%).
+2. Students accounts for 53.4% of the customers of the company.
+3. From the Income table, we can see that customers without Income are the highest. We can attribute this to the fact that students which are half of the company's customers do not earn income.
+4. Single customers make up 69% of the custome base.
+5. 90.4% of the company's customer base have either a graduate or post graduate qualification.
+6. The Youth Age group is the largest age group at 68% of the customers.
+7. 163(42%) of the customers complain about their delivery being late with wait time being between 30 - 45 minutes.
+8. A large percentage of the customer 358(92.2%) prefer food delivery to walk-in.
+9. Direct Call is the preferred medium of order with 208(53.6%) opting for it to Walk-in or Web browser.
+10. 75%(294) of the customers wants Vegetable foods for breakfast.
