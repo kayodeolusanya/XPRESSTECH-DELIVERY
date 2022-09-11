@@ -15,4 +15,4 @@ I was employed as a Supply Chain Analyst to
 provide insight on food deliveries based on customer
 preferences.
 
-"img src=xpresstech%20screenshot%201.PNG" width="900" 
+<img src="xpresstech%20screenshot%201.PNG">
